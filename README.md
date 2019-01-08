@@ -1,7 +1,7 @@
 
-# lien
+# Lien
 https://jeantirard.github.io/GoogleHomePage/
 
 
-# groupe
+# Groupe
 Gregoire Dalmasso

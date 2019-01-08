@@ -3,8 +3,8 @@
 https://jeantirard.github.io/GoogleHomePage/
 
 # Langage
-. **html** 
-.**css**
+- **html** 
+- **css**
 
 # Groupe
 Gregoire Dalmasso
